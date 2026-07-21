@@ -1,0 +1,54 @@
+{
+  "name": "mishal-skills",
+  "owner": {
+    "name": "mishal company"
+  },
+  "metadata": {
+    "description": "مكتبة مهارات mishal company — منظّمة حسب الأقسام",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "developers",
+      "displayName": "Developers",
+      "source": "./developers",
+      "description": "مهارات المطورين: بناء المشاريع، MCP، الاختبار، الذاكرة، تخطيط وتنفيذ المهام البرمجية، ومهارات Superpowers للتطوير المنهجي."
+    },
+    {
+      "name": "designers",
+      "displayName": "Designers",
+      "source": "./designers",
+      "description": "مهارات التصميم: واجهات UI/UX احترافية، الهوية البصرية، تصميم الواجهات الأمامية، الحركات والانتقالات، والـ web artifacts."
+    },
+    {
+      "name": "marketing",
+      "displayName": "Marketing",
+      "source": "./marketing",
+      "description": "45+ مهارة تسويقية: الإعلانات، كتابة المحتوى، SEO، البريد، التسعير، إطلاق المنتجات، وعلم نفس التسويق."
+    },
+    {
+      "name": "social-media",
+      "displayName": "Social Media",
+      "source": "./social-media",
+      "description": "مهارات السوشال ميديا: كتابة المنشورات، الهوكات، سكربتات الريلز، الكاروسيل، تحسين الحسابات، وتصميم الثامبنيلات."
+    },
+    {
+      "name": "finance",
+      "displayName": "Finance",
+      "source": "./finance",
+      "description": "مهارات المالية والمحاسبة: القيود، التسويات، القوائم المالية، تحليل الفروقات، الإقفال الشهري، ودعم التدقيق."
+    },
+    {
+      "name": "small-business",
+      "displayName": "Small Business",
+      "source": "./small-business",
+      "description": "مهارات إدارة الأعمال الصغيرة: التدفق النقدي، الفواتير، الحملات، متابعة العملاء، الرواتب، والتقارير الدورية."
+    },
+    {
+      "name": "legal",
+      "displayName": "Legal",
+      "source": "./legal",
+      "description": "مهارات القسم القانوني: مراجعة العقود، فرز NDA، الامتثال، المذكرات القانونية، ومراجعة الموردين."
+    }
+  ]
+}
